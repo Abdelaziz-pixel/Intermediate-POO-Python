@@ -10,5 +10,5 @@ if __name__ == "__main__":
 
     m = Voiture(3, "uhygf", "Noir")
     print(m)
-    s = Bus(2, "gjloih", "Bleu")
+    s = Bus(1, "gjloih", "Bleu")
     print(s)
