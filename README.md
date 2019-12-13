@@ -1,6 +1,6 @@
 # Intermediate-POO-Python
 
-                                        Exercices de POO intermédiaire en Python
+                                       Exercices de POO intermédiaire en Python
                                         
 Exercice 1: Attributs de classe et encapsulation
 
