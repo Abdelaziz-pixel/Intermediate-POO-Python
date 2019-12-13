@@ -27,6 +27,7 @@ class Clio():
     def number_doors(self):
         return self.__number_doors    
         
+    """This is how we can define a property and its getter and setter methods"""
     @number_doors.setter
     def number_doors(self, number_doors) :
         if number_doors in Clio.doors :
